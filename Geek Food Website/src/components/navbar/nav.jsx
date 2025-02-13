@@ -10,8 +10,8 @@ function Navbar() {
         </div>
         <div className={styles.nav_sections}>
           <a id={styles.blue} href="">Home</a>
-          <a href="#">Quote</a>
-          <a href="#">Resturants</a>
+          <a href="Quote Page\src\App.jsx">Quote</a>
+          <a href="Geek-Foods\src\components\RestaurantCard\RestaurantCard.jsx">Resturants</a>
           <a href="#">Foods</a>
           <a href="#">Contact</a>
         </div>
